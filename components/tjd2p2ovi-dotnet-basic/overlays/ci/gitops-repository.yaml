@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tjd2p2ovi-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tjd2p2ovi-dotnet-basic-gitops
